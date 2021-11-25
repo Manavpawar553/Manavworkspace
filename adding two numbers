@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+     int a = 4, b=5;
+     printf("the answer for this is%d",a+b);
+     
+     return 0;
+     }
